@@ -1,0 +1,114 @@
+{
+  "input_file": "inputs/triples_all_reviewed.json",
+  "dictionary_file": "data/dictionaries/dictionary.csv",
+  "raw_edge_count": 192,
+  "edge_count_after_dedup": 192,
+  "node_count": 227,
+  "relation_counts": {
+    "用于": 47,
+    "是一种": 66,
+    "包含": 79
+  },
+  "node_type_counts": {
+    "技术": 85,
+    "功能": 34,
+    "设备": 19,
+    "场景": 3,
+    "类别": 50,
+    "模块": 36
+  },
+  "connected_components": 48,
+  "largest_component_size": 48,
+  "duplicate_edge_instances_removed": 0,
+  "review_filtered_count": 0,
+  "skipped_relations": {},
+  "self_loop_count": 0,
+  "multi_relation_conflict_count": 0,
+  "isa_bidirectional_conflict_count": 0,
+  "centrality": {
+    "degree_centrality_top10": [
+      {
+        "name": "卷积神经网络",
+        "score": 0.048673
+      },
+      {
+        "name": "KITTI数据集",
+        "score": 0.044248
+      },
+      {
+        "name": "循环神经网络",
+        "score": 0.030973
+      },
+      {
+        "name": "多传感器融合方式",
+        "score": 0.026549
+      },
+      {
+        "name": "神经网络",
+        "score": 0.026549
+      },
+      {
+        "name": "车载系统安全",
+        "score": 0.026549
+      },
+      {
+        "name": "SOC预测算法",
+        "score": 0.022124
+      },
+      {
+        "name": "摄像头",
+        "score": 0.022124
+      },
+      {
+        "name": "毫米波雷达",
+        "score": 0.022124
+      },
+      {
+        "name": "激光雷达",
+        "score": 0.022124
+      }
+    ],
+    "pagerank_top10": [
+      {
+        "name": "多传感器融合方式",
+        "score": 0.01929
+      },
+      {
+        "name": "SOC预测算法",
+        "score": 0.016602
+      },
+      {
+        "name": "通信协议",
+        "score": 0.013914
+      },
+      {
+        "name": "定位",
+        "score": 0.01201
+      },
+      {
+        "name": "强化学习",
+        "score": 0.011226
+      },
+      {
+        "name": "数据驱动的预测方法",
+        "score": 0.010009
+      },
+      {
+        "name": "定位模块",
+        "score": 0.00986
+      },
+      {
+        "name": "图像语义分割",
+        "score": 0.008783
+      },
+      {
+        "name": "基于价值的方法",
+        "score": 0.008538
+      },
+      {
+        "name": "深度学习功能性平台",
+        "score": 0.008538
+      }
+    ]
+  }
+}

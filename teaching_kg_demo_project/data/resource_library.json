@@ -1,0 +1,137 @@
+[
+  {
+    "title": "智能网联汽车概论",
+    "type": "慕课课程",
+    "source": "中国大学MOOC",
+    "url": "https://www.icourse163.org/spoc/course/HXDD-1467667165",
+    "topics": ["第一章 智能网联汽车基础与体系结构"],
+    "keywords": ["智能网联汽车", "体系结构", "自动驾驶", "基础", "概论"],
+    "reason": "适合用于建立智能网联汽车基础概念、系统构成和课程整体认知。"
+  },
+  {
+    "title": "无人驾驶车辆",
+    "type": "慕课课程",
+    "source": "中国大学MOOC",
+    "url": "https://www.icourse163.org/course/detail.htm?cid=1451337166",
+    "topics": ["第一章 智能网联汽车基础与体系结构", "第四章 强化学习与车路协同应用"],
+    "keywords": ["无人驾驶", "自动驾驶", "路径规划", "决策", "控制"],
+    "reason": "可作为自动驾驶车辆总体架构、规划决策和控制学习的补充课程。"
+  },
+  {
+    "title": "汽车智能技术",
+    "type": "慕课课程",
+    "source": "中国大学MOOC",
+    "url": "https://www.icourse163.org/course/detail.htm?cid=1451618234",
+    "topics": ["第一章 智能网联汽车基础与体系结构", "第二章 车载传感器与环境感知"],
+    "keywords": ["汽车智能技术", "智能汽车", "环境感知", "传感器", "控制"],
+    "reason": "适合补充智能汽车技术体系、感知与控制相关知识。"
+  },
+  {
+    "title": "车联网技术应用",
+    "type": "慕课课程",
+    "source": "中国大学MOOC",
+    "url": "https://www.icourse163.org/course/BITC-1466004165",
+    "topics": ["第四章 强化学习与车路协同应用", "第一章 智能网联汽车基础与体系结构"],
+    "keywords": ["车联网", "V2X", "车路协同", "通信", "智能交通"],
+    "reason": "适合学习车联网、V2X 通信和车路协同应用场景。"
+  },
+  {
+    "title": "智能网联汽车导论",
+    "type": "教材资源",
+    "source": "清华大学出版社",
+    "url": "https://www.tup.tsinghua.edu.cn/booksCenter/book_09660501.html",
+    "topics": ["第一章 智能网联汽车基础与体系结构"],
+    "keywords": ["智能网联汽车", "导论", "教材", "体系结构", "自动驾驶"],
+    "reason": "与课程主题高度相关，可作为教材与章节知识组织的参考。"
+  },
+  {
+    "title": "智能网联汽车技术",
+    "type": "教材资源",
+    "source": "清华大学出版社",
+    "url": "https://www.tup.tsinghua.edu.cn/booksCenter/book_09757201.html",
+    "topics": ["第一章 智能网联汽车基础与体系结构", "第二章 车载传感器与环境感知"],
+    "keywords": ["智能网联汽车", "技术", "教材", "传感器", "环境感知"],
+    "reason": "可作为智能网联汽车关键技术、传感器和应用内容的教材参考。"
+  },
+  {
+    "title": "什么是智能网联汽车？",
+    "type": "百科/科普",
+    "source": "清华大学车辆与运载学院",
+    "url": "https://www.svm.tsinghua.edu.cn/info/1076/49499.htm",
+    "topics": ["第一章 智能网联汽车基础与体系结构"],
+    "keywords": ["智能网联汽车", "定义", "基础", "体系结构"],
+    "reason": "适合作为智能网联汽车基本概念和定义的权威科普补充。"
+  },
+  {
+    "title": "激光雷达",
+    "type": "百科页面",
+    "source": "维基百科",
+    "url": "https://zh.wikipedia.org/wiki/%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE",
+    "topics": ["第二章 车载传感器与环境感知"],
+    "keywords": ["激光雷达", "雷达", "传感器", "环境感知", "点云"],
+    "reason": "适合快速了解激光雷达的基本原理和应用背景。"
+  },
+  {
+    "title": "毫米波雷达基础知识介绍",
+    "type": "B站课程",
+    "source": "哔哩哔哩",
+    "url": "https://www.bilibili.com/video/BV1uB4y1376f",
+    "topics": ["第二章 车载传感器与环境感知"],
+    "keywords": ["毫米波雷达", "雷达", "传感器", "环境感知", "目标检测"],
+    "reason": "适合作为毫米波雷达原理、特点和应用的直观视频资料。"
+  },
+  {
+    "title": "全球定位系统",
+    "type": "百科页面",
+    "source": "维基百科",
+    "url": "https://zh.wikipedia.org/wiki/%E5%85%A8%E7%90%83%E5%AE%9A%E4%BD%8D%E7%B3%BB%E7%BB%9F",
+    "topics": ["第四章 强化学习与车路协同应用"],
+    "keywords": ["GPS", "全球定位系统", "定位", "导航", "融合"],
+    "reason": "适合补充定位导航、组合定位和传感器融合相关基础知识。"
+  },
+  {
+    "title": "卷积神经网络",
+    "type": "百科页面",
+    "source": "维基百科",
+    "url": "https://zh.wikipedia.org/wiki/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C",
+    "topics": ["第三章 人工智能与深度学习方法"],
+    "keywords": ["卷积神经网络", "CNN", "深度学习", "神经网络", "图像识别"],
+    "reason": "适合补充 CNN 的基本结构、视觉感知应用和深度学习基础。"
+  },
+  {
+    "title": "深度学习",
+    "type": "百科页面",
+    "source": "维基百科",
+    "url": "https://zh.wikipedia.org/wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0",
+    "topics": ["第三章 人工智能与深度学习方法"],
+    "keywords": ["深度学习", "神经网络", "人工智能", "机器学习", "算法"],
+    "reason": "适合作为人工智能与深度学习方法章节的基础背景资料。"
+  },
+  {
+    "title": "强化学习",
+    "type": "百科页面",
+    "source": "维基百科",
+    "url": "https://zh.wikipedia.org/wiki/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0",
+    "topics": ["第四章 强化学习与车路协同应用"],
+    "keywords": ["强化学习", "决策", "奖励", "策略", "智能体"],
+    "reason": "适合补充强化学习基本概念、奖励机制和决策过程。"
+  },
+  {
+    "title": "C-V2X 车联网技术标准与测试认证",
+    "type": "B站课程",
+    "source": "哔哩哔哩",
+    "url": "https://www.bilibili.com/video/BV1ua411T74H/",
+    "topics": ["第四章 强化学习与车路协同应用"],
+    "keywords": ["C-V2X", "V2X", "车联网", "车路协同", "通信"],
+    "reason": "适合了解 C-V2X、车联网通信和车路协同测试相关内容。"
+  },
+  {
+    "title": "智能网联汽车十年发展回顾",
+    "type": "行业文章",
+    "source": "清华大学车辆与运载学院",
+    "url": "https://www.svm.tsinghua.edu.cn/info/1128/94447.htm",
+    "topics": ["第一章 智能网联汽车基础与体系结构", "第四章 强化学习与车路协同应用"],
+    "keywords": ["智能网联汽车", "发展", "产业", "车路协同", "自动驾驶"],
+    "reason": "适合用于课堂导入、行业背景介绍和课程总结。"
+  }
+]

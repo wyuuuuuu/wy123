@@ -1,0 +1,427 @@
+﻿canonical_name,alias,entity_type,english_name,abbreviation,notes
+2D目标检测,2D目标检测,功能,2D Object Detection,,
+3D CNN,3D CNN,技术,3D Convolutional Neural Network,3D CNN,
+3D目标检测,3D目标检测,功能,3D Object Detection,,
+4D成像毫米波雷达,4D成像毫米波雷达,设备,,,新增教材实体
+4D成像毫米波雷达,4D毫米波成像雷达,设备,,,新增教材别名
+BMS,BMS,技术,Battery Management System,BMS,
+BM方法,BM方法,技术,Block Matching,BM,
+C-V2X,C-V2X,技术,Cellular Vehicle-to-Everything,C-V2X,
+CAN总线,CAN,技术,Controller Area Network,CAN,新增教材别名
+CAN总线,CAN总线,技术,Controller Area Network,CAN,新增教材实体
+CPU-GPU集群,CPU-GPU集群,设备,CPU-GPU Cluster,,
+CRF-RNN,CRF-RNN,技术,CRF-RNN,,
+CTDE范式,CTDE,类别,Centralized Training Decentralized Execution,CTDE,
+CTDE范式,CTDE范式,类别,Centralized Training Decentralized Execution,CTDE,
+CTDE范式,集中式训练-分布式执行,类别,Centralized Training Decentralized Execution,CTDE,
+Caffe,Caffe,技术,Caffe,,
+C合成,C合成,类别,C Synthesis,,
+DAIR,DAIR,类别,,,
+DAIR V2X,DAIR V2X,类别,,,
+DQN,DQN,技术,Deep Q-Network,DQN,
+DSP,DSP,设备,Digital Signal Processor,DSP,
+DSRC,DSRC,技术,Dedicated Short Range Communication,DSRC,
+EDA工具,EDA工具,技术,EDA Tool,EDA,
+FPGA,FPGA,设备,Field Programmable Gate Array,FPGA,
+FPGA加MCU的实现方案,FPGA加MCU的实现方案,技术,FPGA plus MCU Solution,,
+FPGA加接口芯片的实现方法,FPGA加接口芯片的实现方法,技术,FPGA plus Interface Chip Solution,,
+Fast R-CNN,Fast R-CNN,技术,Fast R-CNN,,
+FlexRay协议,FlexRay,技术,FlexRay,FlexRay,新增教材实体
+GPG工具,GPG工具,技术,GPG Tool,GPG,
+GPS,GPS,设备,Global Positioning System,GPS,
+GPU,GPU,设备,Graphics Processing Unit,GPU,
+GPU计算解决方案,GPU计算解决方案,类别,,,补充：作为PX2的上位类别
+HDL硬件描述语言,HDL硬件描述语言,技术,Hardware Description Language,HDL,
+IMU定位系统,IMU,设备,Inertial Measurement Unit,IMU,新增教材别名
+IMU定位系统,IMU定位系统,设备,Inertial Measurement Unit Localization System,IMU,
+IMU定位系统,惯性传感器,设备,Inertial Measurement Unit,IMU,新增教材别名
+KITTI数据集, KITTI,类别,KITTI Dataset,KITTI,
+KITTI数据集,KITTI数据集,类别,KITTI Dataset,KITTI,
+Keras,Keras,技术,Keras,,
+LIN协议,LIN,技术,Local Interconnect Network,LIN,新增教材别名
+LIN协议,LIN协议,技术,Local Interconnect Network,LIN,新增教材实体
+MADDPG,MADDPG,技术,Multi-Agent Deep Deterministic Policy Gradient,MADDPG,
+MAPPO,MAPPO,技术,Multi-Agent Proximal Policy Optimization,MAPPO,
+MC-CNN,MC-CNN,技术,MC-CNN,,
+MCU,MCU,设备,Microcontroller Unit,MCU,
+MCU加接口芯片的实现方法,MCU加接口芯片的实现方法,技术,MCU plus Interface Chip Solution,,
+MOST总线,MOST,技术,Media Oriented Systems Transport,MOST,新增教材别名
+MOST总线,MOST总线,技术,Media Oriented Systems Transport,MOST,新增教材实体
+MS-CNN,MS-CNN,技术,MS-CNN,,
+PPO,PPO,技术,Proximal Policy Optimization,PPO,
+PX2,PX2,设备,NVIDIA PX2,PX2,
+Petri网,Petri网,技术,Petri Net,,
+Petri网,拍趣网,技术,Petri Net,,
+Q学习,Q-Learning,技术,Q-Learning,Q-Learning,
+Q学习,Q学习,技术,Q-Learning,Q-Learning,
+R-CNN,R-CNN,技术,R-CNN,,
+ROS平台,ROS平台,技术,Robot Operating System,ROS,
+RSA非对称加密方法,RSA非对称加密方法,技术,RSA Asymmetric Encryption,RSA,
+Rope3D,Rope3D,类别,,,
+SCNN,SCNN,技术,SCNN,SCNN,
+SGBM方法,SGBM方法,技术,Semi-Global Block Matching,SGBM,
+SOC,SOC,功能,State of Charge,SOC,
+SOC估算,SOC估算,功能,,,补充：规范化SOC相关功能
+SOC预测,SOC预测,功能,SOC Prediction,SOC,
+SOC预测算法,SOC预测算法,类别,,,补充：SOC方法的上位类别
+SOC预测网络,SOC预测网络,技术,SOC Prediction Network,,
+SSH协议,SSH协议,技术,Secure Shell,SSH,
+STM32处理器,STM32处理器,模块,STM32 Processor,STM32,
+SVM,SVM,技术,Support Vector Machine,SVM,
+Tensorflow,Tensorflow,技术,TensorFlow,,
+Torch,Torch,技术,Torch,,
+V2X-Seq,V2X-Seq,类别,,,
+YOLOv5,YOLOv5,技术,YOLOv5,YOLOv5,
+Zynq解决方案,Zynq解决方案,技术,Zynq Solution,Zynq,
+三维信息,三维信息,功能,3D Information,,
+三维描述,三维描述,功能,3D Description,,
+三维物体检测数据集,三维物体检测数据集,类别,3D Object Detection Dataset,,
+三角测量原理,三角测量原理,技术,Triangulation Principle,,
+上下文信息,上下文信息,功能,Context Information,,
+丢失状态,丢失状态,模块,Lost State,,
+两段式算法,两段式算法,类别,Two-Stage Algorithm,,
+丰田芝加哥技术研究院,丰田芝加哥技术研究院,场景,Toyota Technological Institute at Chicago,TTIC,
+主动传感技术,主动传感技术,类别,Active Sensing Technology,,
+二值语义分割,二值语义分割,技术,Binary Semantic Segmentation,,
+云端平台系统,云端平台系统,模块,,,新增教材实体
+交叉熵,交叉熵,功能,Cross Entropy,,
+交通信号灯检测,交通信号灯检测,功能,Traffic Light Detection,,
+交通标志分类,交通标志分类,功能,Traffic Sign Classification,,
+交通标志检测,交通标志检测,功能,Traffic Sign Detection,,
+交通标志识别系统,交通标志识别系统,技术,Traffic Sign Recognition System,,
+人体动作识别,人体动作识别,功能,Human Action Recognition,,
+人工智能算法基础,人工智能算法基础,类别,Artificial Intelligence Algorithm Foundation,,
+人工神经网络,人工神经网络,技术,Artificial Neural Network,ANN,
+人脸识别,人脸识别,功能,Face Recognition,,
+传感器平台,传感器平台,模块,,,新增教材实体
+位置隐私保护,位置隐私保护,技术,,,补充缺失实体
+信号处理模块,信号处理模块,模块,Signal Processing Module,,  
+候选区域,候选区域,功能,Region Proposal,,
+候选区域识别,候选区域识别,模块,,,补充：候选区域处理模块
+储能BMS系统,储能BMS系统,设备,Energy Storage BMS System,BMS,
+储能系统,储能系统,类别,,,补充：储能系统上位类别
+光流,光流,技术,Optical Flow,,
+全卷积网络,FCN,技术,Fully Convolutional Network,FCN,
+全卷积网络,全卷积网络,技术,Fully Convolutional Network,FCN,
+公私钥对,公私钥对,模块,Public Private Key Pair,,
+公钥,公钥,模块,Public Key,,
+内积层,内积层,模块,Inner Product Layer,,
+决策级融合,决策级融合,技术,,,新增教材实体
+决策过程,决策过程,类别,,,补充：决策过程上位类别
+分布式融合,分布式融合,技术,,,新增教材实体
+分类,分类,功能,,,补充：分类相关功能
+判别模型方法,判别模型方法,类别,Discriminative Model Method,,
+加密方法,加密方法,类别,,,补充：标准上位类别
+加密通信技术,加密通信技术,技术,Encrypted Communication Technology,,
+动作集合,动作集合,模块,Action Set,,
+北斗,北斗,设备,BeiDou Navigation Satellite System,BDS,新增教材实体
+匿名认证,匿名认证,技术,,,
+千兆以太网,千兆以太网,设备,Gigabit Ethernet,,
+单目内参数据,单目内参数据,功能,Monocular Intrinsic Parameters,,
+卡尔曼滤波,卡尔曼滤波,技术,Kalman Filter,,
+即时互联网接入,即时互联网接入,功能,,,新增教材功能
+卷积,卷积,模块,Convolution,,
+卷积神经网络,CNN,技术,Convolutional Neural Network,CNN,
+卷积神经网络,卷积神经网络,技术,Convolutional Neural Network,CNN,
+双目校正,双目校正,技术,Stereo Rectification,,
+双目立体视觉,双目立体视觉,技术,Binocular Stereo Vision,,
+双目视觉,双目视觉,技术,Binocular Vision,,
+双线性插值,双线性插值,技术,Bilinear Interpolation,,
+反卷积,反卷积,技术,Deconvolution,,
+反卷积层,反卷积层,模块,Deconvolution Layer,,
+受限玻尔兹曼机,RBM,技术,Restricted Boltzmann Machine,RBM,
+受限玻尔兹曼机,受限玻尔兹曼机,技术,Restricted Boltzmann Machine,RBM,
+回报函数,回报函数,模块,Reward Function,,
+图像中心,图像中心,模块,Image Center,,
+图像对齐算法,图像对齐算法,类别,Image Alignment Algorithm,,
+图像校正,图像校正,类别,Image Rectification,,
+图像识别,图像识别,功能,Image Recognition,,
+图像语义分割,图像语义分割,功能,Semantic Segmentation,,
+图片内容描述,图片内容描述,功能,Image Content Description,,
+图片标题生成技术,图片标题生成技术,技术,Image Captioning,,
+地图建模,地图建模,功能,Map Building,,
+基于价值的方法,基于价值的方法,类别,Value-Based Method,,
+基于区块链的认证,基于区块链的认证,技术,,,
+基于区块链的隐私保护技术,基于区块链的隐私保护技术,技术,,,
+基于模型的强化学习,基于模型的强化学习,技术,Model-Based Reinforcement Learning,,
+基于深度学习的道路车道线识别项目,道路车道线识别项目,场景,Deep Learning Based Lane Detection Project,,
+基于策略的方法,基于策略的方法,类别,Policy-Based Method,,
+多任务学习检测结果,多任务学习检测结果,功能,Multi-task Learning Result,,
+多传感器融合方式,多传感器融合方式,类别,,,新增教材类别
+多尺度目标检测器,多尺度目标检测器,类别,Multi-Scale Object Detector,,
+多智能体强化学习,MARL,技术,Multi-Agent Reinforcement Learning,MARL,
+多智能体强化学习,多智能体强化学习,技术,Multi-Agent Reinforcement Learning,MARL,
+多目标跟踪,多目标跟踪,功能,Multiple Object Tracking,MOT,
+安时积分法,安时积分法,技术,Ampere-hour Integral Method,,
+定位,定位,功能,Positioning,,  
+定位模块,定位模块,模块,Positioning Module,,  
+定位系统,定位系统,类别,,,根据新教材补充
+定位辅助,定位辅助,功能,,,新增教材功能
+寄存器传输层,寄存器传输层,模块,Register Transfer Level,RTL,
+对极线,对极线,模块,Epipolar Line,,
+局域网,局域网,场景,Local Area Network,LAN,
+局部偏移估算,局部偏移估算,功能,,,补充：估算相关功能
+局部的偏移估算,局部的偏移估算,功能,Local Displacement Estimation,,
+巡航,巡航,功能,Cruise,,
+平移向量,平移向量,模块,Translation Vector,,
+平移矩阵,平移矩阵,模块,Translation Matrix,,
+建立三维描述,建立三维描述,功能,,,补充：三维描述功能
+开路电压法,开路电压法,技术,Open Circuit Voltage Method,OCV,
+强化学习,强化学习,类别,Reinforcement Learning,RL,
+彩色摄像头,彩色摄像头,设备,Color Camera,,
+得到视差图,得到视差图,功能,,,补充：立体匹配相关功能
+循环神经网络,RNN,技术,Recurrent Neural Network,RNN,
+循环神经网络,循环神经网络,技术,Recurrent Neural Network,RNN,
+德国KIT研究院,德国KIT研究院,场景,KIT Institute,,
+德州仪器,德州仪器,场景,Texas Instruments,TI,
+成像原点,成像原点,模块,Image Principal Point,,
+手写体识别,手写体识别,功能,Handwriting Recognition,,
+扩大小目标分辨率,扩大小目标分辨率,功能,,,谨慎使用：评价性功能
+拼接层,拼接层,模块,Concatenation Layer,,
+接口芯片,接口芯片,模块,Interface Chip,,
+接收器,接收器,模块,Receiver,,  
+控制平台,控制平台,模块,,,新增教材实体
+掩码图,掩码图,功能,Mask Map,,
+提高特征图分辨率,提高特征图分辨率,功能,,,谨慎使用：评价性功能
+提高语义分割精度,提高语义分割精度,功能,,,谨慎使用：评价性功能
+摄像头,摄像头,设备,Camera,,  
+摄像头,车载摄像头,设备,Vehicle Camera,,新增教材别名
+摄像头中心距,摄像头中心距,模块,Camera Baseline,,
+摄像头模块,摄像头模块,模块,Camera Module,,
+数字系统设计自动化关键技术,数字系统设计自动化关键技术,类别,,,补充：高层次综合技术上位类别
+数据存储部分,数据存储部分,模块,,,新增教材实体
+数据级融合,数据级融合,技术,,,新增教材实体
+数据隐私保护技术,数据隐私保护技术,技术,,,
+数据驱动的预测方法,数据驱动的预测方法,类别,Data-driven Prediction Method,,
+文件加密,文件加密,功能,,,补充：加密相关功能
+文件加密传输,文件加密传输,功能,,,补充：加密传输功能
+文件解密,文件解密,功能,,,补充：解密相关功能
+斯麦斯网络,斯麦斯网络,技术,Siamese Network,,
+旋转矩阵,旋转矩阵,模块,Rotation Matrix,,
+无模型的强化学习,无模型的强化学习,技术,Model-Free Reinforcement Learning,,
+时间序列建模,时间序列建模,功能,Time Series Modeling,,
+景深信息,景深信息,功能,Depth of Field Information,,
+智能移动机器人,智能移动机器人,类别,,,
+最大值池化,最大值池化,模块,Max Pooling,,
+最小二乘法拟合,最小二乘法拟合,技术,Least Squares Fitting,,
+机器学习,机器学习,技术,Machine Learning,ML,
+标志分类,标志分类,功能,Sign Classification,,
+标志检测,标志检测,功能,Sign Detection,,
+树莓派处理器,树莓派处理器,模块,Raspberry Pi Processor,,
+树莓派小车,树莓派小车,设备,Raspberry Pi Car,,
+核心算法,核心算法,模块,,,新增教材实体
+检测层,检测层,模块,Detection Layer,,
+检测跟踪,检测跟踪,技术,Tracking-by-Detection,,
+模拟系统,模拟系统,模块,,,新增教材实体
+毫米波雷达,mmWave雷达,设备,Millimeter Wave Radar,mmWave Radar,
+毫米波雷达,毫米波车载雷达,设备,Millimeter Wave Radar,mmWave Radar,
+毫米波雷达,毫米波雷达,设备,Millimeter Wave Radar,mmWave Radar,
+泊车辅助,泊车辅助,场景,Parking Assistance,,  
+活跃状态,活跃状态,模块,Active State,,
+测距,测距,功能,Ranging,,  
+测距器,测距器,类别,,,补充：测距设备上位类别
+深度信息,深度信息,功能,Depth Information,,
+深度图,深度图,功能,Depth Map,,
+深度学习功能性平台,深度学习功能性平台,类别,Deep Learning Functional Platform,,
+深度学习常用模型,深度学习常用模型,类别,Common Deep Learning Models,,
+深度学习平台,深度学习平台,类别,Deep Learning Platform,,
+深度学习抽象化平台,深度学习抽象化平台,类别,Deep Learning Abstraction Platform,,
+深度学习模型训练部分,深度学习模型训练部分,模块,,,新增教材实体
+深度神经网络,DNN,技术,Deep Neural Network,DNN,
+深度神经网络,深度神经网络,技术,Deep Neural Network,DNN,
+混合式融合,混合式融合,技术,,,新增教材实体
+滑模观测器,滑模观测器,技术,Sliding Mode Observer,,
+激光发射器,激光发射器,模块,Laser Emitter,,  
+激光测距仪,激光测距仪,设备,Laser Rangefinder,,
+激光雷达,LiDAR,设备,LiDAR,LiDAR,
+激光雷达,光学雷达,设备,LiDAR,LiDAR,新增教材别名
+激光雷达,激光雷达,设备,LiDAR,LiDAR,
+激光雷达模块,激光雷达模块,模块,LiDAR Module,,
+激光雷达系统,激光雷达系统,设备,,,补充：用于激光雷达系统相关包含关系
+焦距,焦距,模块,Focal Length,,
+物体检测技术,物体检测技术,类别,Object Detection Technology,,
+物体识别,物体识别,功能,,,新增教材功能
+物体追踪,物体追踪,功能,,,新增教材功能
+物体追踪数据集,物体追踪数据集,类别,Object Tracking Dataset,,
+特征上采样,特征上采样,技术,Feature Upsampling,,
+特征级融合,特征级融合,技术,,,新增教材实体
+状态机,状态机,模块,State Machine,,
+状态转移概率,状态转移概率,模块,State Transition Probability,,
+状态集合,状态集合,模块,State Set,,
+环境感知,环境感知,功能,Environment Perception,,  
+理解,理解,模块,,,新增教材实体
+生成对抗网络,GAN,技术,Generative Adversarial Network,GAN,
+生成对抗网络,生成对抗网络,技术,Generative Adversarial Network,GAN,
+生成模型方法,生成模型方法,类别,Generative Model Method,,
+电子控制单元,ECU,模块,Electronic Control Unit,ECU,新增教材别名
+电子控制单元,电子控制单元,模块,Electronic Control Unit,ECU,新增教材实体
+电池内阻预测法,电池内阻预测法,技术,Internal Resistance Prediction Method,,
+电池管理系统,电池管理系统,类别,Battery Management System,BMS,
+畸变系数,畸变系数,模块,Distortion Coefficient,,
+疲劳检测,疲劳检测,功能,Fatigue Detection,,
+监控库所,监控库所,模块,,,
+目标检测,目标检测,功能,Target Detection,,  
+目标检测算法,目标检测算法,类别,,,补充：标准上位类别
+目标检索问题,目标检索问题,类别,Target Retrieval Problem,,
+目标视觉跟踪,目标视觉跟踪,技术,Visual Object Tracking,,
+目标追踪方法,目标追踪方法,类别,Object Tracking Method,,
+盲区探测,盲区探测,功能,,,根据新教材补充
+盲区监测,盲区监测,场景,Blind Spot Monitoring,,  
+相似性度量方法,相似性度量方法,类别,Similarity Metric Method,,
+相机内参,相机内参,功能,Camera Intrinsic Parameters,,
+相机外参,相机外参,功能,Camera Extrinsic Parameters,,
+相机标定,相机标定,技术,Camera Calibration,,
+眼睛状态识别,眼睛状态识别,功能,Eye State Recognition,,
+瞳孔位置检测,瞳孔位置检测,功能,Pupil Position Detection,,
+短距离通信技术,短距离通信技术,技术,,,新增教材实体
+硬件平台,硬件平台,模块,,,新增教材实体
+碰撞预警,碰撞预警,功能,,,根据新教材补充
+神经网络,神经网络,类别,Neural Network,NN,
+神经网络模型,神经网络模型,类别,Neural Network Model,, 
+私钥,私钥,模块,Private Key,,
+移动边缘计算,MEC,技术,Mobile Edge Computing,MEC,
+移动边缘计算,移动边缘计算,技术,Mobile Edge Computing,MEC,
+稀疏光流,稀疏光流,技术,Sparse Optical Flow,,
+稠密光流,稠密光流,技术,Dense Optical Flow,,
+立体匹配,立体匹配,技术,Stereo Matching,,
+立体视觉,立体视觉,类别,Stereo Vision,,
+立体视觉及光流数据集,立体视觉及光流数据集,类别,Stereo and Optical Flow Dataset,,
+等效电池模型,等效电池模型,技术,Equivalent Battery Model,,
+算法级综合,算法级综合,类别,Algorithmic Synthesis,,
+类别识别,类别识别,功能,,,补充：识别相关功能
+粒子滤波,粒子滤波,技术,Particle Filter,,
+结构光,结构光,技术,Structured Light,,
+编码机,编码机,模块,Encoder,,
+网络通信安全防护技术,网络通信安全防护技术,技术,,,
+群组认证,群组认证,技术,,,
+自动导引车,AGV,设备,Automated Guided Vehicle,AGV,
+自动导引车,自动导引车,设备,Automated Guided Vehicle,AGV,
+自动泊车,自动泊车,场景,Automated Parking,,  
+自动编码机,自动编码机,技术,Autoencoder,AE,
+自动编解码机,自动编解码机,技术,Autoencoder,AE,
+自然语言处理,自然语言处理,功能,Natural Language Processing,NLP,
+自适应巡航,自适应巡航,场景,,,根据新教材补充
+荷电状态,荷电状态,功能,State of Charge,SOC,
+获取三维信息,获取三维信息,功能,,,补充：立体匹配相关功能
+获取景深信息,获取景深信息,功能,,,补充：双目立体视觉相关功能
+获取深度信息,获取深度信息,功能,,,补充：立体匹配相关功能
+获取相机内参,获取相机内参,功能,,,补充：相机标定相关功能
+获取相机外参,获取相机外参,功能,,,补充：相机标定相关功能
+行为级综合,行为级综合,类别,Behavioral Synthesis,,
+行人再识别,行人再识别,技术,Person Re-identification,ReID,
+行人检测,行人检测,功能,,,补充：目标检测功能
+行人目标检测,行人目标检测,功能,Pedestrian Detection,,
+被动方式,被动方式,类别,Passive Method,,
+视差图,视差图,功能,Disparity Map,,
+视觉里程测量数据集,视觉里程测量数据集,类别,Visual Odometry Dataset,,
+解码机,解码机,模块,Decoder,,
+计算实际距离,计算实际距离,功能,,,补充：双目立体视觉相关功能
+计算平台实现方法,计算平台实现方法,类别,,,补充：计算平台方法上位类别
+语义分割,语义分割,功能,,,补充：语义分割功能
+语音识别,语音识别,功能,Speech Recognition,,
+赛灵思公司,赛灵思公司,场景,Xilinx,,
+超声波传感器,超声波传感器,设备,Ultrasonic Sensor,,  
+跟踪方法,跟踪方法,类别,,,补充：标准上位类别
+跟踪状态,跟踪状态,模块,Tracked State,,
+跨域认证,跨域认证,技术,,,
+路侧单元,RSU,设备,Road Side Unit,RSU,
+路侧单元,路侧单元,设备,Road Side Unit,RSU,
+路面和车道检测数据集,路面和车道检测数据集,类别,Road and Lane Detection Dataset,,
+身份与认证技术,身份与认证技术,技术,,,
+身份隐私保护,身份隐私保护,技术,,,
+车联网安全认证,车联网安全认证,类别,,,
+车联网终端安全,车联网终端安全,类别,,,
+车联网路侧安全,车联网路侧安全,类别,,,
+车联网通信,车联网通信,场景,Internet of Vehicles Communication,,
+车联网通信机制,车联网通信机制,类别,,,新增教材类别
+车路协同,车路协同,场景,Vehicle-Road Collaboration,, 
+车路协同基础平台,车路协同基础平台,技术,,,
+车路协同数据集,车路协同数据集,类别,,,
+车路协同自动驾驶数据集,车路协同自动驾驶数据集,类别,,,
+车载专用微机控制器,车载专用微机控制器,类别,,,新增教材类别
+车载以太网,以太网,技术,Automotive Ethernet,Ethernet,新增教材实体
+车载传感器,车载传感器,类别,In-Vehicle Sensor,,  
+车载入侵检测技术,车载入侵检测技术,技术,,,
+车载加密技术,车载加密技术,技术,,,
+车载单元,OBU,设备,On Board Unit,OBU,
+车载单元,车载单元,设备,On Board Unit,OBU,
+车载安全审计技术,车载安全审计技术,技术,,,
+车载客户端系统,车载客户端系统,模块,,,新增教材实体
+车载总线安全,车载总线安全,类别,,,
+车载系统安全,车载系统安全,类别,,,
+车载网络安全认证技术,车载网络安全认证技术,技术,,,
+车载自组织网络,车载自组织网络,技术,,,新增教材实体
+车载防火墙技术,车载防火墙技术,技术,,,
+车辆检测,车辆检测,功能,Vehicle Detection,,
+车辆目标检测,车辆目标检测,功能,Vehicle Detection,,
+车辆跟踪,车辆跟踪,功能,Vehicle Tracking,,
+车道线检测,车道线检测,功能,Lane Detection,,
+车道线目标检测,车道线目标检测,功能,Lane Detection,,
+输入图片上采样,输入图片上采样,技术,Input Upsampling,,
+输入层,输入层,模块,Input Layer,,
+输出层,输出层,模块,Output Layer,,
+边缘计算,边缘计算,技术,Edge Computing,,
+边缘计算设备,ECD,设备,Edge Computing Device,ECD,
+边缘计算设备,边缘计算设备,设备,Edge Computing Device,ECD,
+通信协议,通信协议,类别,,,根据新教材补充
+通信平台,通信平台,模块,Communication Platform,,
+通信总线,通信总线,模块,Communication Bus,,新增教材实体
+通信模块,通信模块,模块,Communication Module,,  
+通信设备,通信设备,类别,Communication Device,,  
+道路场景目标检测,道路场景目标检测,功能,Road Scene Object Detection,,
+道路场景行人识别项目,道路场景行人识别项目,场景,Road Scene Pedestrian Recognition Project,,
+道路场景识别与追踪,道路场景识别与追踪,场景,Road Scene Recognition and Tracking,,
+道路场景车辆识别项目,道路场景车辆识别项目,场景,Road Scene Vehicle Recognition Project,,
+重建表面信息,重建表面信息,功能,,,补充：重建功能
+锂离子电池储能系统,锂离子电池储能系统,设备,Lithium-ion Battery Energy Storage System,,
+长短期记忆网络,LSTM,技术,Long Short-Term Memory,LSTM,
+长短期记忆网络,长短期记忆网络,技术,Long Short-Term Memory,LSTM,
+长距离无线通信技术,长距离无线通信技术,技术,,,新增教材实体
+阿尔特拉公司,阿尔特拉公司,场景,Altera,,
+隐藏层,隐藏层,模块,Hidden Layer,,
+障碍物检测,障碍物检测,功能,,,新增教材功能
+障碍物识别,障碍物识别,功能,Obstacle Detection,,  
+集中式融合,集中式融合,技术,,,新增教材实体
+雷达传感器,雷达传感器,类别,Radar Sensor,,  
+非对称加密方法,非对称加密方法,类别,,,补充：加密方法上位类别
+非活跃状态,非活跃状态,模块,Inactive State,,
+非线性激活函数,非线性激活函数,模块,Nonlinear Activation Function,,
+面部动态疲劳表情检测,面部动态疲劳表情检测,功能,Facial Fatigue Expression Detection,,
+马尔可夫决策过程,MDP,技术,Markov Decision Process,MDP,
+马尔可夫决策过程,马尔可夫决策过程,技术,Markov Decision Process,MDP,
+驾驶员疲劳判别模型,驾驶员疲劳判别模型,技术,Driver Fatigue Discrimination Model,,
+高层次综合技术,高层次综合技术,技术,High-Level Synthesis,HLS,
+高清晰度地图部分,高清晰度地图部分,模块,,,新增教材实体
+高级综合,高级综合,类别,High-Level Synthesis,HLS,
+鲁棒的物体运动轨迹,鲁棒的物体运动轨迹,功能,Robust Object Trajectory,,
+鸟瞰图视角,鸟瞰图视角,场景,Bird's-eye View,BEV,
+黑白摄像头,黑白摄像头,设备,Monochrome Camera,,
+定位,定位,功能,Localization,,
+障碍物检测,障碍物检测,功能,Obstacle Detection,,
+ROS平台,ROS,模块,Robot Operating System,ROS,根据误差分析补充别名
+ROS平台,机器人操作系统,模块,Robot Operating System,ROS,根据误差分析补充别名
+ROS平台,ROS平台,模块,Robot Operating System,ROS,根据误差分析补充实体
+激光发射器,激光发射器,模块,Laser Emitter,,根据误差分析补充实体
+编码机,编码机,模块,Encoder,,根据误差分析补充实体
+解码机,解码机,模块,Decoder,,根据误差分析补充实体
+输入层,输入层,模块,Input Layer,,根据误差分析补充实体
+隐藏层,隐藏层,模块,Hidden Layer,,根据误差分析补充实体
+理解,理解,模块,Understanding,,根据误差分析补充实体
+硬件平台,硬件平台,模块,Hardware Platform,,根据误差分析补充实体
+ROS平台,机器人操作系统（ROS）,模块,Robot Operating System Platform,ROS,从正文块抽取的别名补充
+云端平台,云端平台,模块,Cloud Platform,,从正文块抽取
+加速度传感器,加速度传感器,设备,Accelerometer,,从正文块抽取
+陀螺仪,陀螺仪,设备,Gyroscope,,从正文块抽取
+交通信号灯识别系统,交通信号灯识别系统,模块,Traffic Light Recognition System,,按当前受限类型集映射为模块
+图像采集模块,图像采集模块,模块,Image Acquisition Module,,从正文块抽取
+图像预处理模块,图像预处理模块,模块,Image Preprocessing Module,,从正文块抽取
+检测模块,检测模块,模块,Detection Module,,从正文块抽取
+识别模块,识别模块,模块,Recognition Module,,从正文块抽取
+MV3D,MV3D,技术,Multi-View 3D,MV3D,从正文块抽取
+特征级融合方法,特征级融合方法,类别,Feature-level Fusion Method,,从正文块抽取
+汽车DR,汽车DR,技术,Automobile Dead Reckoning,DR,从正文块抽取
+自主式车辆定位技术,自主式车辆定位技术,类别,Autonomous Vehicle Positioning Technology,,从正文块抽取
+激光雷达,LIDAR,设备,Light Detection and Ranging,LIDAR,从正文块抽取的别名补充
+避障,避障,功能,Obstacle Avoidance,,从正文块抽取
+手写字符图像的识别,手写字符图像的识别,功能,Handwritten Character Image Recognition,,从正文块抽取
+
